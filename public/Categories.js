@@ -48,4 +48,10 @@ exports.blogCategories = [
     slug: "sport",
     description: " Physical and mental skill-intensive exercises.",
   },
+  {
+    img: "/images/Categories/Culture.jpg",
+    category: "Culture",
+    slug: "culture",
+    description: "The way of life for an entire society",
+  },
 ];

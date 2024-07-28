@@ -66,6 +66,14 @@ exports.allBlogs = [
     },
     {
       id: 9,
+      img: "/images/blogs/C1.jpg",
+      title: "The differences between the Eastern and the Western culture",
+      category: "Culture",
+      content:
+        "Western and Eastern cultures have different beliefs and values. Western culture places a greater emphasis on personal freedom." ,
+    },
+    {
+      id: 10,
       img: "/images/blogs/T2.jpg",
       title: "10 Must-Have Gadgets for Tech Enthusiasts",
       category: "Technology",
@@ -73,7 +81,7 @@ exports.allBlogs = [
         "Laptop, Apple, Lenovo, HP, e-Reader, Amazon, Smart Notebook, Rocketbook, Smart Pens, Livescribe Echo, Moleskine Pen.",
     },
     {
-      id: 10,
+      id: 11,
       img: "/images/blogs/T2.jpg",
       title: "Solo Travel: Embracing Adventure Alone",
       category: "Travel",
@@ -81,7 +89,7 @@ exports.allBlogs = [
         "Anyone can do it and have a great time, as long as they put their mind to it and push themselves to try new things. ",
     },
     {
-      id: 11,
+      id: 12,
       img: "/images/blogs/H2.jpg",
       title: "Healthy Eating Habits for Busy Professionals",
       category: "Health",
@@ -89,7 +97,7 @@ exports.allBlogs = [
         "Eat a high-protein breakfast, Stay hydrated and watch what you drink, Pack your lunch, Choose healthy snack options.",
     },
     {
-      id: 12,
+      id: 13,
       img: "/images/blogs/D2.jpg",
       title: "Quick and Easy DIY Gift Ideas",
       category: "DIY",
@@ -97,7 +105,7 @@ exports.allBlogs = [
         "Create thoughtful and budget-friendly DIY gifts for any occasion, featuring handmade crafts.",
     },
     {
-      id: 13,
+      id: 14,
       img: "/images/blogs/Fs2.jpg",
       title: "Fashion Tips: Dressing for Your Body Shape",
       category: "Fashion",
@@ -105,7 +113,7 @@ exports.allBlogs = [
         "Once you are done understanding your body shape, focus on highlighting your best features.",
     },
     {
-      id: 14,
+      id: 15,
       img: "/images/blogs/F2.jpg",
       title: "Traditional Cuisine from Around the World",
       category: "Food",
@@ -113,21 +121,14 @@ exports.allBlogs = [
         "BBQ, Australia. As the world's laid-back country, Australians are partial to an evening Aussie BBQ sausage sizzle or a meat pie with tomato sauce",
     },
     {
-      id: 15,
+      id: 16,
       img: "/images/blogs/L2.jpg",
       title: "Achieving Work-Life Balance",
       category: "Lifestyle",
       content:
         "Know your values. Try to spend some time thinking about what is important to you in life.",
     },
-    {
-      id: 16,
-      img: "/images/blogs/Te3.jpg",
-      title: "Future of Sustainable Technology",
-      category: "Technology",
-      content:
-        " Every little bit helps, from acting to conserve resources and changing processes related to software development upgrades, sustainable technology is creating a future in which businesses can act to be profitable, and must act to be sustainable patrons for the environment.",
-    },
+    
     {
       id: 17,
       img: "/images/blogs/S2.jpg",
@@ -138,6 +139,23 @@ exports.allBlogs = [
     },
     {
       id: 18,
+      img: "/images/blogs/C2.jpg",
+      title: "The role of culture in people from mixed origins",
+      category: "Culture",
+      content:
+        "Our culture saves us, and it's wise, if you're mixed, to carefully understand both by any means. ",
+    },
+
+    {
+      id: 19,
+      img: "/images/blogs/Te3.jpg",
+      title: "Future of Sustainable Technology",
+      category: "Technology",
+      content:
+        " Every little bit helps, from acting to conserve resources and changing processes related to software development upgrades, sustainable technology is creating a future in which businesses can act to be profitable, and must act to be sustainable patrons for the environment.",
+    },
+    {
+      id: 20,
       img: "/images/blogs/H3.jpg",
       title: "Mindfulness and Meditation: Finding Inner Peace",
       category: "Health",
@@ -145,7 +163,7 @@ exports.allBlogs = [
         "Meditate. Despite being a simple act, meditation can profoundly affect your mental state. ",
     },
     {
-      id: 19,
+      id: 21,
       img: "/images/blogs/T3.jpg",
       title: "Offbeat Destinations for Adventure Travelers",
       category: "Travel",
@@ -153,7 +171,7 @@ exports.allBlogs = [
         "Offbeat tourism is a unique kind of travel where people explore places that aren't very common or popular among tourists.",
     },
     {
-      id: 20,
+      id: 22,
       img: "/images/blogs/D3.jpg",
       title: "DIY Home Spa: Pamper Yourself at Home",
       category: "DIY",
@@ -161,7 +179,7 @@ exports.allBlogs = [
         "Warm, relaxing bath. Dim the lights, light candles, and dip into a warm bath to unwind.",
     },
     {
-      id: 21,
+      id: 23,
       img: "/images/blogs/Fs3.jpg",
       title: "Seasonal Fashion Essentials: Spring/Summer Edition",
       category: "Fashion",
@@ -169,7 +187,7 @@ exports.allBlogs = [
         "Summer trends often include lightweight fabrics, bold prints, and vibrant colors, while fall trends embrace rich textures, earthy tones, and layering. ",
     },
     {
-      id: 22,
+      id: 24,
       img: "/images/blogs/F3.jpg",
       title: "Global Flavors: Fusion Recipes from Around the World",
       category: "Food",
@@ -177,7 +195,7 @@ exports.allBlogs = [
         "Experience a culinary fusion adventure with recipes that blend flavors from different cuisines, celebrating cultural diversity and creativity in the kitchen.",
     },
     {
-      id: 23,
+      id: 25,
       img: "/images/blogs/L3.jpg",
       title: "Minimalist Living: Simplify Your Life",
       category: "Lifestyle",
@@ -186,11 +204,20 @@ exports.allBlogs = [
     },
 
     {
-      id: 24,
+      id: 26,
       img: "/images/blogs/S3.jpg",
       title: "Outdoor adventure sport to try this summer.",
       category: "Sport",
       content:
         "Trekking,Mountaineering, White water rafting, Skiing, Paragliding, Scuba diving, Rock climbing and bouldering.",
     },
+    {
+      id: 27,
+      img: "/images/blogs/C3.jpg",
+      title: "Cultural diversity in the workplace.",
+      category: "Culture",
+      content:
+        "Cultural diversity in the workplace means a business hires diverse personnel with different characteristics.",
+    },
+    
   ];
