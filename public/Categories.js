@@ -41,4 +41,11 @@ exports.blogCategories = [
     slug: "diy",
     description: "Trends and tips in the world of fashion.",
   },
+
+  {
+    img: "/images/Categories/Sport.jpg",
+    category: "Sport",
+    slug: "sport",
+    description: " Physical and mental skill-intensive exercises.",
+  },
 ];
